@@ -202,7 +202,7 @@ data =
             "French painter, collagist, draughtsman, printmaker, sculptor",
             "Movements: Cubism, Synthetic cubism, Expressionism, Fauvism",
             "#georgesbraque", 
-            "https://lh3.googleusercontent.com/proxy/eFub0v8Zjp751WzubgRZiufBel5pQxQpgoTIzCIgXcKSc-DR29N9MxB_Ce94nUCe3K4OQgW6-7qk0UlBCmQ3MbNSSEAhIzK6veSTq02fwpnOwwQeQFNQ"
+            "https://www.thoughtco.com/thmb/_cpH4N5bjMFUgXiU9sSZE0onmrk=/1609x1052/filters:fill(auto,1)/georges-braque-older-ffa4ae583d9c4f4397a8cecba9c72d0e.jpg"
           ]
         }
       ]
