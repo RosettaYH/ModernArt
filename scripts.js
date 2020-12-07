@@ -550,7 +550,15 @@ data =
             "Belgian artist",
             "Movements: Surrealism, Art Deco, Cubism, Post-Impressionism, Modern art, Dada",
             "#renémagritte", 
-            "https://upload.wikimedia.org/wikipedia/commons/9/9c/Lois_Jones%2C_artist_and_teacher_-_NARA_-_559227.jpg"
+            "https://www.renemagritte.org/images/rene-magritte-photo.jpg"
+          ]
+        },
+        {"Frida Kahlo (1908–1954)":
+          [
+            "Mexican painter",
+            "Movements: Naïve art, Modern art, Surrealism, Magical Realism, Symbolism, Naturalism, Primitivism, Social realism, Cubism",
+            "#fridakahlo", 
+            "https://www.tradesy.com/blog/wp-content/uploads/2015/07/Frida-Portrait-Thumbnail.jpg"
           ]
         }
       ]
